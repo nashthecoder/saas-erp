@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:4em; color:blue"># NGO ENTERPRISE RESOURCE PLANNING (ERP) SYSTEM</span>
+<span style="font-size:4em; color:blue"># NGO ENTERPRISE RESOURCE PLANNING (ERP) SYSTEM</span>
 
 ## Developer: Nash The Coder
 
