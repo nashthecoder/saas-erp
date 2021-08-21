@@ -1,4 +1,4 @@
-<span style="font-size:4em; color:blue"># NGO ENTERPRISE RESOURCE PLANNING (ERP) SYSTEM</span>
+# NGO ENTERPRISE RESOURCE PLANNING (ERP) SYSTEM
 
 ## Developer: Nash The Coder
 
