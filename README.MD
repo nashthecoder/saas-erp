@@ -1,7 +1,5 @@
 # NGO ENTERPRISE RESOURCE PLANNING (ERP) SYSTEM
 
-## Developer: Nash The Coder
-
 ## What Is Enterprise Resource Planning (ERP)?
 Enterprise Resource Planning (ERP) is a process used by organisations to manage and integrate the important parts of their processes. Many ERP software applications are important to organisations because they help them implement resource planning by integrating all of the processes needed to run their organisations with a single system. An ERP software system can also integrate planning, purchasing inventory, sales, marketing, finance, human resources, and more.
 
@@ -10,7 +8,7 @@ ERP software can integrate all of the processes needed to run an organisation.
 ERP solutions have evolved over the years, and many are now typically web-based applications that users can access remotely.
 Some benefits of ERP include the free flow of communication between business areas, a single source of information, and accurate, real-time data reporting.
 
-![Non-Profit Value Chain](images/value-chain.png)
+![Non-Profit Value Chain](client/images/value-chain.png)
 
 ## Client Business Requirements
 Digitization the finance and accounting process of requisition and payments and budget updates based on expense.
@@ -20,7 +18,11 @@ Provision of digital access of the Client's Standard Operation Policies to allow
 [User story notes 1](https://www.agilebusiness.org/page/ProjectFramework_15_RequirementsandUserStories)
 [User story notes 2](https://www.clariontech.com/blog/how-to-break-down-the-requirements-for-an-agile-project-management)
 
+## DB Structure
 
+## Application Structure
+
+#
 
 ## Tech Stack: NodeJS, ReactJS and MongoDB
 
@@ -82,3 +84,5 @@ Provision of digital access of the Client's Standard Operation Policies to allow
 # Resources:
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+### Developer: Nash The Coder
